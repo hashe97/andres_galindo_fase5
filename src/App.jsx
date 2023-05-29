@@ -29,8 +29,8 @@ function App() {
       </div>
       <p className="read-the-docs">
         ESTE ES MI PROYECTO 
-        <a href="index.html"> click aqui para ir al proyecto</a>
-        
+        <a href="inicio.html"> click aqui para ir al proyecto</a>
+
       </p>
     </>
   )
