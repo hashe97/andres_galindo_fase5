@@ -1,0 +1,35 @@
+
+  
+
+ * {  
+    background: #0f0c29;  
+    background: linear-gradient(to right, #24243e, #302b63, #0f0c29); /* W3C, IE 10+/ Edge, Firefox 16+, Chrome 26+, Opera 12+, Safari 7+ */
+    
+   }
+  div {
+    background-color: #fafafa;
+    border: 1px solid #ccc;
+    border-radius: 5px;
+    box-shadow: 0 0 10px rgba(255, 255, 255, 0.2);
+    margin: 20px auto;
+    max-width: 800px;
+    padding: 20px;
+  }
+  
+  * {  
+    background: #0f0c29;  
+    background: linear-gradient(to right, #24243e, #302b63, #0f0c29); /* W3C, IE 10+/ Edge, Firefox 16+, Chrome 26+, Opera 12+, Safari 7+ */
+    
+   }
+   body {background-color: #000000; 
+    color: #f9f6f6;
+
+   }
+
+   h1  {  text-align: center;
+    height: 200px;
+  line-height: 200px;
+  text-align: center;
+
+  
+   }
